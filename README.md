@@ -5,11 +5,11 @@
 This application shows the backend for a ecommerce site. This was built on sequelize, Express.js and mysql
 
 ## Table of Contents
-- Installation
-- Usage
-- License
-- Test
-- Questions
+- [Installation](https://github.com/ChrisTR1021/E-commerce-Back-end#installation)
+- [Usage](https://github.com/ChrisTR1021/E-commerce-Back-end#usage)
+- [License](https://github.com/ChrisTR1021/E-commerce-Back-end#license)
+- [Test](https://github.com/ChrisTR1021/E-commerce-Back-end#test)
+- [Questions](https://github.com/ChrisTR1021/E-commerce-Back-end#questions)
 
 ## Installation
 Begin by cloning the repository locally and sequelize, mysql and express are necessary for the project
@@ -37,5 +37,5 @@ The license would fall under MIT
 Testing will need to be done using insomnia 
 
 ## Questions 
-For any questions email me at christianridgell1021@gmail.com Github: ChrisTR1021
+For any questions email me at christianridgell1021@gmail.com Github: [ChrisTR1021](https://github.com/ChrisTR1021/E-commerce-Back-end)
 
